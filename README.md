@@ -21,7 +21,7 @@ Wanderlust allows users to discover unique destinations, create their own listin
 Browse various travel destinations with pricing, location details, categories, and search functionality.
 
 <p align="center">
-  <img src="./home.png" width="90%" alt="Wanderlust Home Page">
+  <img src="./screenshots/home.png" width="90%" alt="Wanderlust Home Page">
 </p>
 
 ---
